@@ -1,0 +1,14 @@
+NovaX V47 — Results Mockup Lock + Path Milestones
+
+- Results Page aligned to approved Results mockup visual direction.
+- Hero uses approved X-circle + Builder silhouette artwork from the mockup.
+- Builder Card display rebuilt around the approved mockup composition; existing 9:16 export remains functional.
+- QR sharing retained as a functional action outside the Builder Card.
+- Removed the Results-page VIEW FOUNDERS GATE action so Founder Gate remains a separate journey state.
+- Added 5 / 15 / 25 Confirmed Invite Path thresholds as active mechanics for Steward / Sentinel / Vanguard discovery.
+- Preserved existing 50 / 100 / 250 / 500 / 1,000 Founder milestones.
+- Centered Quiz/legal logo lockups with a small optical correction.
+- Added “Building the Parallel Economy™” to the right of the logo on About and FAQ.
+- Hub footer tagline removed.
+- About/FAQ remain editable copy placeholders informed by the supplied NovaX copy framework.
+- No assets deleted.
